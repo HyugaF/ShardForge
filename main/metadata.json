@@ -1,0 +1,6 @@
+{
+  "name": "ShardForge — 5eTools to Shard Tabletop DOCX Converter",
+  "description": "1-click 5eTools source browser, website HTML/JSON clipper, and Word (.docx) converter engineered for Shard Tabletop book and content imports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
